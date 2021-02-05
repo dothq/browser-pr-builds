@@ -1,0 +1,17 @@
+{
+  "stable": {
+    "windows": null,
+    "mac": null,
+    "linux": null
+  },
+  "beta": {
+    "windows": null,
+    "mac": null,
+    "linux": null
+  },
+  "nightly": {
+    "windows": null,
+    "mac": null,
+    "linux": "https://github.com/dothq/browser-pr-builds/releases/download/0.2020.11.15/dot-84.0a1.en-US.linux-x86_64.tar.bz2"
+  }
+}
